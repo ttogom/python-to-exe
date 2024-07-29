@@ -85,7 +85,7 @@ datas=[
 hiddenimports=['numpy'],
 ```
 
-## Step 8: Create the Executable
+### Step 7: Create the Executable
 
 Run the following command:
 ```pyinstaller main.spec```
