@@ -31,7 +31,7 @@ if __name__ == '__main__':
 3.  Rename `hi.py` to `hi.pyx`.
 
 ### Step 2: Create setup.py
-Run the following command:
+Run the following command:\
 ```pip install cython```
 Create a file named `setup.py` in the same folder with the following content:
 ```python
